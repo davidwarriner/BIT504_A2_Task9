@@ -5,6 +5,6 @@ public class App {
 
         System.out.println("Adding a line to be committed for the first");
 
-        System.out.println("Adding a line to be pushed to the test branch");
+        System.out.println("Adding a line to be pushed to the test branch2");
     }
 }
